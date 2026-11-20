@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Perch</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Fri, 20 Nov 2026 13:22:59 -0800</pubDate>
+            <link>https://github.com/alecramos-sudo/perch-releases</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Perch 0.2.0</h2>
+<ul>
+<li>Hiding and showing icons works again on macOS 27.</li>
+<li>New app icon.</li>
+<li>Right-click the menu bar icon for settings, updates, feedback and Quit. Option-click shows or hides hidden icons.</li>
+<li>The panel no longer flickers while it refreshes.</li>
+<li>Report a Problem, Suggest a Feature and Send Feedback from inside the app.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/alecramos-sudo/perch-releases/releases/download/v0.2.0-2/Perch-0.2.0-2.zip" length="2550316" type="application/octet-stream" sparkle:edSignature="Tt9orYrZPyUn02SZ4l9Z0pSg9Jg4AscNT+ORIuMLrv03ANM2oCBudvMeZTHqYERiNCCWm3cLOp2fkXxRqq3QCg=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: edck9RShnfSX8gNBxY17ZkFCqcBIEqx3qnAOVIo4+sPcRtcLiHanTqYWQfHyozBmCZILVs8rMhLvEYlegZeYAA==
+length: 1556
+-->
