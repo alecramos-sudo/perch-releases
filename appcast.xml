@@ -6,6 +6,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Perch</title>
         <item>
+            <title>0.2.2</title>
+            <pubDate>Sat, 21 Nov 2026 13:06:31 -0800</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>Fixes Wi-Fi and other macOS icons in Hidden flipping back into view on macOS 27.</li>
+<li>Icons you move to Hidden now sit next to Perch's icon, so showing them only adds icons at the chevron. Use "Move Hidden Icons Next to Perch" in the settings menu to gather the ones you already have.</li>
+<li>Smoother show and hide, and old duplicate rows from Perch 0.1.0 are cleaned up.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/alecramos-sudo/perch-releases/releases/download/v0.2.2-4/Perch-0.2.2-4.zip" length="2623051" type="application/octet-stream" sparkle:edSignature="tHhYytEt3sa4Y0hGDKjiOHul84VBZZqSRD6Ib25KLRziDLtksMJvnoBar8ZyMKYYeHqfP/bn14vwdCFZvDUrCg=="/>
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Sat, 21 Nov 2026 12:39:38 -0800</pubDate>
             <sparkle:version>3</sparkle:version>
@@ -39,6 +53,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: Pvc201hrCbylmeVe3NDcFMLtVo5wrIUX2JwycOy7gS3oSHWqaLDIf/yN43/tE9tX7lGalLv1FJufZ7dBzInGAA==
-length: 2495
+edSignature: 2MuA1HJnqzet9KU6QHyNoiOKKLbI3Hsu6wV78WnJ2FjNRbJ7DKadOn3QR/6KasBovCrnRxKQfKaO0YsggfEEDA==
+length: 3559
 -->
