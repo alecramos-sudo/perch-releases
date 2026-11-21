@@ -6,6 +6,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Perch</title>
         <item>
+            <title>0.2.3</title>
+            <pubDate>Sat, 21 Nov 2026 13:13:24 -0800</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>Clicking Perch's icon while the panel is open now closes it cleanly instead of flashing it shut and open again.</li>
+<li>Perch's icon turns from pointing left to pointing down as the panel opens, and back as it closes.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/alecramos-sudo/perch-releases/releases/download/v0.2.3-5/Perch-0.2.3-5.zip" length="2630126" type="application/octet-stream" sparkle:edSignature="BzwtMwX1EXW4rrvIvSCvPoOw7nOuC2wMvnHmXHIKqHIQxPglWfQi2Te2Mc6SKkWqzZWZdgQD4Qi1PjXfPjqDAA=="/>
+        </item>
+        <item>
             <title>0.2.2</title>
             <pubDate>Sat, 21 Nov 2026 13:06:31 -0800</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -32,27 +45,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/alecramos-sudo/perch-releases/releases/download/v0.2.1-3/Perch-0.2.1-3.zip" length="2565043" type="application/octet-stream" sparkle:edSignature="xJ9yYYosIMAdLLgWQDR+dT8y25tQEjlXfEHQDrMNtz01cKLTIcUh4cmj1p9V/eh4BSUqOIIhSus+YzuGiideCg=="/>
         </item>
-        <item>
-            <title>0.2.0</title>
-            <pubDate>Fri, 20 Nov 2026 13:22:59 -0800</pubDate>
-            <link>https://github.com/alecramos-sudo/perch-releases</link>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Perch 0.2.0</h2>
-<ul>
-<li>Hiding and showing icons works again on macOS 27.</li>
-<li>New app icon.</li>
-<li>Right-click the menu bar icon for settings, updates, feedback and Quit. Option-click shows or hides hidden icons.</li>
-<li>The panel no longer flickers while it refreshes.</li>
-<li>Report a Problem, Suggest a Feature and Send Feedback from inside the app.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/alecramos-sudo/perch-releases/releases/download/v0.2.0-2/Perch-0.2.0-2.zip" length="2550316" type="application/octet-stream" sparkle:edSignature="Tt9orYrZPyUn02SZ4l9Z0pSg9Jg4AscNT+ORIuMLrv03ANM2oCBudvMeZTHqYERiNCCWm3cLOp2fkXxRqq3QCg=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 2MuA1HJnqzet9KU6QHyNoiOKKLbI3Hsu6wV78WnJ2FjNRbJ7DKadOn3QR/6KasBovCrnRxKQfKaO0YsggfEEDA==
-length: 3559
+edSignature: k7jTxt++18nci2zWFXUgkeiksGDB0DyeH5aGrLyUj+5OnrGdJvfBdONx44vl8Xf5ZoZWxpWlHkMDD9ADQYeQCg==
+length: 3345
 -->
